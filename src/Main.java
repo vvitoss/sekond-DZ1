@@ -3,6 +3,6 @@ public class Main {
         int price = 5000;
         int x = 20;
         int bonus = price/x;
-        System.out.println(bonus + " мили");
+        System.out.println(bonus + " gitмили");
     }
 }
